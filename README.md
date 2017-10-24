@@ -1,2 +1,1 @@
-# UBA
-Useful Bash Aliases
+# Useful Bash Aliases
